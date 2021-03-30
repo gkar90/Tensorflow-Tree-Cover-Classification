@@ -1,4 +1,4 @@
-# Tensorflow-Tree-Cover-Classification
+# USFS Tree Cover Classification
 
 ## Introduction
 
